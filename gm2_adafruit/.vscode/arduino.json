@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:spacemouse",
+    "port": "COM13",
+    "sketch": "gm2_adafruit.ino"
+}
