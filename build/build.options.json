@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:spacemouse",
+  "hardwareFolders": "C:\\Users\\scorp\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\scorp\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\scorp\\Documents\\GitHub\\GalaxyMouse-V2\\gm2_adafruit"
+}

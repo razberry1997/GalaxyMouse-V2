@@ -1,3 +1,4 @@
+#line 1 "C:\\Users\\scorp\\Documents\\GitHub\\GalaxyMouse-V2\\gm2_adafruit\\gm2_adafruit.ino"
 #include <Arduino.h>
 #include "libraries/Adafruit_MPU6050/Adafruit_MPU6050.h"
 #include <Wire.h>
