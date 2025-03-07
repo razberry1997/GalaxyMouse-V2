@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:spacemouse",
+    "sketch": "C:/Users/scorp/Documents/GitHub/GalaxyMouse-V2/gm2_adafruit/gm2_adafruit.ino",
+    "port": "COM13",
+    "output": "build"
+}
