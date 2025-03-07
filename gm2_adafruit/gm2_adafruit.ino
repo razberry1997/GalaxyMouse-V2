@@ -427,13 +427,13 @@ void loop(void)
 //-----------------------------------------------------print buttons-----------------------------------------------------
 
 
-  Serial.print(" | Button0: "); print_sign(voltage0);
-  Serial.print(" | Button1: "); print_sign(voltage1);
-  Serial.print(" | Button2: "); print_sign(voltage2);
-  Serial.print(" | Button3: "); print_sign(voltage3);
-  Serial.print(" | Button4: "); print_sign(voltage4);
-  Serial.print(" | Button5: "); print_sign(voltage5);
-  Serial.print(" | Button6: "); print_sign(voltage6);
+  //Serial.print(" | Button0: "); print_sign(voltage0);
+  //Serial.print(" | Button1: "); print_sign(voltage1);
+  //Serial.print(" | Button2: "); print_sign(voltage2);
+  //Serial.print(" | Button3: "); print_sign(voltage3);
+  //Serial.print(" | Button4: "); print_sign(voltage4);
+  //Serial.print(" | Button5: "); print_sign(voltage5);
+  //Serial.print(" | Button6: "); print_sign(voltage6);
   //Serial.print(" | Button7: "); print_sign(voltage7);
 
   //Serial.print(" | Button1: "); print_sign(keyState[0]);
